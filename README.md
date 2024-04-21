@@ -18,7 +18,7 @@ We will update this repository as required. Information presented here should be
 
 `Корисні посилання / Useful links`
 
-* [Реєстрація / Вебсайт / Registration / Website]()
+* [Реєстрація / Вебсайт / Registration / Website](https://osuukraine.com)
 * [Форум пост / Forum post]()
 * [Англійські правила / English rules](https://github.com/osu-ukraine-hub/uot/blob/630444bd31b64b1f4de43e0e4c85f88cbf9ac5db/Rules/rules-english.md)
 * [Українські правила / Ukrainian rules](https://github.com/osu-ukraine-hub/uot/blob/630444bd31b64b1f4de43e0e4c85f88cbf9ac5db/Rules/rules-ukrainian.md)
