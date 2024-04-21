@@ -2,7 +2,7 @@
 
 > **ABSTRACT**
 
-> This document establishes and governs all of the operational processes of the tournament that require documentation. Format used is 1v1, RO64, Double Elimination. Any scheduling activity is allowed until 8 hours before match time. Any tournament details not listed here are either unannounced as of now or could be found at [Information]() or [Website](). 
+> This document establishes and governs all of the operational processes of the tournament that require documentation. Format used is 1v1, RO64, Double Elimination. Any scheduling activity is allowed until 8 hours before match time. Any tournament details not listed here are either unannounced as of now or could be found at [Information]() or [Website](https://osuukraine.com/). 
 
 Using host privileges, the following rules are enacted for an indefinite period of time:
 
@@ -37,7 +37,7 @@ Using host privileges, the following rules are enacted for an indefinite period 
 
 #### PART III
 ### Eligibility
-1. Only players of Ukrainian Origin are allowed to play in the Tournament;
+1. Only players of Ukrainian Origin are allowed to play in the Tournament;*
 2. Hosts may request players to submit proof of Ukrainian Origin on case-by-case basis;
 3. If materials submitted as a consequence of rule 3.2 being evoked are considered insufficient by Hosts, participation may be declined;
 *(refer to PART I: Definitions for a definition of Ukrainian Origin)*
@@ -58,8 +58,7 @@ Using host privileges, the following rules are enacted for an indefinite period 
 #### PART VI
 ### Mappools
 1. Only such mappools that are announced by staff will be used.
-2. Mappools when issued may only be altered before the first match of the stage unless a critical situation occurs rendering a map unplayable;
-3. If a critical situation as described in rule 6.7 occurs, an affected map must be swapped and all the finished matches of the stage must be replayed;
+2. Mappools when issued may only be altered before the first match of the stage;
 
 #### PART VII
 ### Match procedures
@@ -86,4 +85,4 @@ Using host privileges, the following rules are enacted for an indefinite period 
 ### Prize pool
 1. The podium comprises three best performing players of the Tournament;
 2. Prizes will be announced and distributed by staff to their respective podium winners;
-3. Any non-podium player may request a special banner to indicate their participation. Contact any staff member for more details.
+3. Any non-podium player may request a special banner to indicate their participation. Contact Administration for more details.
