@@ -40,7 +40,7 @@ Using host privileges, the following rules are enacted for an indefinite period 
 1. Only players of Ukrainian Origin are allowed to play in the Tournament;*
 2. Hosts may request players to submit proof of Ukrainian Origin on case-by-case basis;
 3. If materials submitted as a consequence of rule 3.2 being evoked are considered insufficient by Hosts, participation may be declined;
-`*(refer to PART I: Definitions for a definition of Ukrainian Origin)*`
+`*(refer to PART I: Definitions for a definition of Ukrainian Origin)`
 
 #### PART IV
 ### Tournament structure
