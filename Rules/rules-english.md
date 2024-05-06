@@ -2,7 +2,7 @@
 
 > **ABSTRACT**
 
-> This document establishes and governs all of the operational processes of the tournament that require documentation. Format used is 1v1, RO64, Double Elimination. Any scheduling activity is allowed until 8 hours before match time. Any tournament details not listed here are either unannounced as of now or could be found at [Information]() or [Website](https://osuukraine.com/). 
+> This document establishes and governs all of the operational processes of the tournament that require documentation. Format used is 1v1, RO64, Double Elimination. Any scheduling activity is allowed until 8 hours before match time. Any tournament details not listed here are either unannounced as of now or could be found at [Information](https://osu.ppy.sh/community/forums/topics/1912855?n=1) or [Website](https://osuukraine.com/). 
 
 Using host privileges, the following rules are enacted for an indefinite period of time:
 
@@ -80,9 +80,13 @@ Using host privileges, the following rules are enacted for an indefinite period 
 16. A tiebreaker map must be played if the final score is a tie and both players need one point to win the match. Additional mods are allowed during a tiebreaker but are not mandatory;
 17. If an issue occurs during the first 20-30 seconds of a map, a restart may be requested. Designated Referee may reject such request if abuse is suspected;
 18. If a networking issue occurs rendering a player's score not submitted, evidence may be provided suggesting the existence of the score in question. When evidence is deemed sufficient by Designated Referee or Hosts/Admins, such score must be taken into account;
+19. In cases where matches are interrupted by a continuous power outage in one or both players, a match should be considered unplayable and rescheduled for another time. Matches will be renewed with the score, pick/bans preserved.
 
 #### PART VIII
 ### Prize pool
 1. The podium comprises three best performing players of the Tournament;
-2. Prizes will be announced and distributed by staff to their respective podium winners;
-3. Any non-podium player may request a special banner to indicate their participation. Contact Administration for more details.
+2. A profile badge will be awarded to the winner of the tournament (1st place)*;
+3. Prizes will be announced and distributed by staff to their respective podium winners;
+4. Any non-podium player may request a special banner to indicate their participation. Contact Administration for more details.
+
+* Badges are distributed by the osu! team, our Tournament will do its best to make it happen.
