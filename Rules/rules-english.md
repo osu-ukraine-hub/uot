@@ -6,7 +6,10 @@
 
 Using host privileges, the following rules are enacted for an indefinite period of time:
 
-*No amendments exist up to date.
+```
+Existing amendments:
+05.05.2024 - added a power outages rule, prize badge rule
+```
 
 ## Table of Contents
 1. Definitions
