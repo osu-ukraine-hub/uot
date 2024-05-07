@@ -8,7 +8,7 @@ Using host privileges, the following rules are enacted for an indefinite period 
 
 ```
 Existing amendments:
-05.05.2024 - added a power outages rule, prize badge rule
+05.05.2024 - added a power outages rule (7.19), prize badge rule (8.2)
 ```
 
 ## Table of Contents
