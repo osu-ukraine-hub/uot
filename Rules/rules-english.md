@@ -79,12 +79,11 @@ Existing amendments:
 11. A warmup map is allowed to be played as long both players agree. The warmup map may not be longer than 5 minutes;
 12. After the first ban/pick players must take turns in doing either; 
 13. Each player has 120 seconds to make their pick. The failure to provide a pick transfers that pick to their opponent;
-14. On Freemod maps each player must choose at least one mod besides NoFail to play with;
-15. Picking maps from the same category repeatedly is not prohibited;
-16. A tiebreaker map must be played if the final score is a tie and both players need one point to win the match. Additional mods are allowed during a tiebreaker but are not mandatory;
-17. If an issue occurs during the first 20-30 seconds of a map, a restart may be requested. Designated Referee may reject such request if abuse is suspected;
-18. If a networking issue occurs rendering a player's score not submitted, evidence may be provided suggesting the existence of the score in question. When evidence is deemed sufficient by Designated Referee or Hosts/Admins, such score must be taken into account;
-19. In cases where matches are interrupted by a continuous power outage in one or both players, a match should be considered unplayable and rescheduled for another time. Matches will be renewed with the score, pick/bans preserved.
+14. Picking maps from the same category repeatedly is not prohibited;
+15. A tiebreaker map must be played if the final score is a tie and both players need one point to win the match. Additional mods are allowed during a tiebreaker but are not mandatory;
+16. If an issue occurs during the first 20-30 seconds of a map, a restart may be requested. Designated Referee may reject such request if abuse is suspected;
+17. If a networking issue occurs rendering a player's score not submitted, evidence may be provided suggesting the existence of the score in question. When evidence is deemed sufficient by Designated Referee or Hosts/Admins, such score must be taken into account;
+18. In cases where matches are interrupted by a continuous power outage in one or both players, a match should be considered unplayable and rescheduled for another time. Matches will be renewed with the score, pick/bans preserved.
 
 #### PART VIII
 ### Prize pool
