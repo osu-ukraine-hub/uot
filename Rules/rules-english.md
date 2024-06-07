@@ -74,7 +74,7 @@ Existing amendments:
 6. A player with a higher roll value chooses either to ban first or pick first.
 7. The player banning first gets to pick second. The player picking first gets to ban second;
 8. The amount of bans per player is specified by a Tournament stage;
-9. Maps of the same category may not be banned twice, unless they are in the NoMod category;
+9. A player cannot ban paps of the same category twice, unless they are in the NoMod category;
 10. Every map must be played with NoFail turned on;
 11. A warmup map is allowed to be played as long both players agree. The warmup map may not be longer than 5 minutes;
 12. After the first ban/pick players must take turns in doing either; 
