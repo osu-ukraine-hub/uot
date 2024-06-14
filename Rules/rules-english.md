@@ -9,6 +9,7 @@ Using host privileges, the following rules are enacted for an indefinite period 
 ```
 Existing amendments:
 05.05.2024 - added a power outages rule (7.19), prize badge rule (8.2)
+14.06.2024 - clarified 7.11, in effect from Quarterfinals
 ```
 
 ## Table of Contents
@@ -76,7 +77,7 @@ Existing amendments:
 8. The amount of bans per player is specified by a Tournament stage;
 9. A player cannot ban maps of the same category twice, unless they are in the NoMod category;
 10. Every map must be played with NoFail turned on;
-11. A warmup map is allowed to be played as long both players agree. The warmup map may be up to 6 minutes in length;
+11. A warmup map is allowed to be played as long both players agree. The warmup map may be up to 6 minutes in length (not drain time);
 12. After the first ban/pick players must take turns in doing either; 
 13. Each player has 120 seconds to make their pick. The failure to provide a pick transfers that pick to their opponent;
 14. Picking maps from the same category repeatedly is not prohibited;
