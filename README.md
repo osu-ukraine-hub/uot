@@ -1,8 +1,8 @@
-# Ukrainian osu! Tournament 2024
+# Ukrainian osu! Tournament 2025
 
 `УКР - Вступ`
 
-Вітаємо на репозиторії Українського осу! Турнірі.
+Вітаємо на репозиторії Українського осу! Турніру.
 На даний момент тут знаходяться правила турніру у двох версіях: [англійська](https://github.com/osu-ukraine-hub/uot/blob/main/Rules/rules-english.md) та [українська](https://github.com/osu-ukraine-hub/uot/blob/main/Rules/rules-ukrainian.md).
 
 Ми будемо оновлювати цей репозиторій по потребі. Інформація представлена тут може розцінюватися достовірною.
@@ -19,7 +19,7 @@ We will update this repository as required. Information presented here should be
 `Корисні посилання / Useful links`
 
 * [Реєстрація / Вебсайт / Registration / Website](https://osuukraine.com)
-* [Форум пост / Forum post](https://osu.ppy.sh/community/forums/topics/1912855?n=1)
+* [Форум пост / Forum post]()
 * [Англійські правила / English rules](https://github.com/osu-ukraine-hub/uot/blob/main/Rules/rules-english.md)
 * [Українські правила / Ukrainian rules](https://github.com/osu-ukraine-hub/uot/blob/main/Rules/rules-ukrainian.md)
 

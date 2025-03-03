@@ -2,15 +2,9 @@
 
 > **ABSTRACT**
 
-> This document establishes and governs all of the operational processes of the tournament that require documentation. Format used is 1v1, RO64, Double Elimination. Any scheduling activity is allowed until 8 hours before match time. Any tournament details not listed here are either unannounced as of now or could be found at [Information](https://osu.ppy.sh/community/forums/topics/1912855?n=1) or [Website](https://osuukraine.com/). 
+> This document establishes and governs all of the operational processes of the tournament that require documentation. Format used is 1v1, RO64, Double Elimination. Any scheduling activity is allowed until 8 hours before match time. Any tournament details not listed here are either unannounced as of now or could be found at [Information]() or [Website](https://osuukraine.com/). 
 
 Using host privileges, the following rules are enacted for an indefinite period of time:
-
-```
-Existing amendments:
-05.05.2024 - added a power outages rule (7.19), prize badge rule (8.2)
-14.06.2024 - clarified 7.11, in effect from Quarterfinals
-```
 
 ## Table of Contents
 1. Definitions
@@ -25,9 +19,9 @@ Existing amendments:
 #### PART I
 ## Definitions
 1. *Ruleset* means this document;
-2. *Tournament* means Ukrainian osu! Tournament 2024;
+2. *Tournament* means Ukrainian osu! Tournament 2025;
 3. *Designated Referee* refers to the referee who is in charge of the match;
-4. *Ukrainian Origin* refers to persons who hold a valid Ukrainian passport;
+4. *Previous Players* refers to players who took part in [previous iteration's qualification](https://docs.google.com/spreadsheets/d/1tJJHJb7_l_XpYI78YZafjztugpsQYi20HNlNJz_8i9g/edit?gid=1540090866#gid=1540090866&range=A1);
 5. Any definitions not listed in this part are up to staff to interpret. Their interpretation must be considered the correct one;
 
 #### PART II
@@ -41,11 +35,9 @@ Existing amendments:
 
 #### PART III
 ### Eligibility
-1. Only players of Ukrainian Origin are allowed to play in the Tournament;*
-2. Hosts may request players to submit proof of Ukrainian Origin on case-by-case basis;
-3. If materials submitted as a consequence of rule 3.2 being evoked are considered insufficient by Hosts, participation may be declined;
+1. Only players with a ukrainian flag on Bancho and Previous Players are allowed participation;*
 
-`*(refer to PART I: Definitions for a definition of Ukrainian Origin)`
+`*(refer to PART I: Definitions for a definition of Previous Players)`
 
 #### PART IV
 ### Tournament structure
@@ -91,6 +83,5 @@ Existing amendments:
 1. The podium comprises three best performing players of the Tournament;
 2. A profile badge will be awarded to the winner of the tournament (1st place)*;
 3. Prizes will be announced and distributed by staff to their respective podium winners;
-4. Any non-podium player may request a special banner to indicate their participation. Contact Administration for more details.
 
 `* Badges are distributed by the osu! team, our Tournament will do its best to make it happen.`
