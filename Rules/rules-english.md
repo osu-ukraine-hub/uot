@@ -4,7 +4,7 @@
 
 > This document establishes and governs all of the operational processes of the tournament that require documentation. Format used is 1v1, RO64, Double Elimination. Any scheduling activity is allowed until 8 hours before match time. Any tournament details not listed here are either unannounced as of now or could be found at [Information]() or [Website](https://osuukraine.com/). 
 
-Using host privileges, the following rules are enacted for an indefinite period of time:
+The following rules are enacted for an indefinite period of time:
 
 ## Table of Contents
 1. Definitions
