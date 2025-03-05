@@ -19,7 +19,7 @@ We will update this repository as required. Information presented here should be
 `Корисні посилання / Useful links`
 
 * [Реєстрація / Вебсайт / Registration / Website](https://osuukraine.com)
-* [Форум пост / Forum post](https://osu.ppy.sh/community/forums/topics/2049490?n=1)
+* [Форум пост / Forum post](https://osu.ppy.sh/community/forums/topics/2049956?n=1)
 * [Англійські правила / English rules](https://github.com/osu-ukraine-hub/uot/blob/main/Rules/rules-english.md)
 * [Українські правила / Ukrainian rules](https://github.com/osu-ukraine-hub/uot/blob/main/Rules/rules-ukrainian.md)
 
